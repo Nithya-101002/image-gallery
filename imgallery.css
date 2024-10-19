@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.one{
+    width:300px;
+   padding: 5px;
+
+
+}
+.two{
+    width:300px;
+    padding: 5px;
+    
+}
+.three{
+    width:300px;
+
+    padding: 5px;
+}
+.four{
+    width:300px;
+   
+    padding: 5px;
+}
+.five{
+    width:300px;
+    padding: 5px;
+
+}
+.six{
+    width:300px;
+    padding: 5px;
+
+
+}
+.seven{
+    width:300px;
+    padding: 14px;
+
+}
+.eight{
+    width:300x;
+    padding: 5px;
+    
+
+}
